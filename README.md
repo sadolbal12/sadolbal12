@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет, я Сергей
 
-<!--
-**sadolbal12/sadolbal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-разработчик на Python. Делаю серверную логику, доступ к данным и админки.
+Сейчас открыт к работе / рассматриваю предложения / на проекте — оставь одну строку.
 
-Here are some ideas to get you started:
+## Чем занимаюсь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Пишу веб-сервисы на Django: модели, доступ, интеграции. Учусь держать код проверяемым (pytest) и понятным для заказчика.
+
+## Технологии
+
+`Python` · `Django` · `REST API` · `Git` · `Bash` · `Docker`
+
+## Проекты
+
+- [CHICHI.STL](https://github.com/ТВОЙ_ЛОГИН/chichi-stl) — закрытая библиотека ZIP для подписчиков Patreon (Django, OAuth, pytest)
+
+## Контакты
+
+- Telegram: [@ник](https://t.me/sdl12)
+- Email: sadolbal112@yandex.ru
+
+Открыт к junior backend Python.
