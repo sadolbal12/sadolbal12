@@ -13,7 +13,7 @@ Backend-разработчик на Python. Делаю серверную лог
 
 ## Проекты
 
-- [CHICHI.STL](https://github.com/ТВОЙ_ЛОГИН/chichi-stl) — закрытая библиотека ZIP для подписчиков Patreon (Django, OAuth, pytest)
+- [CHICHI.STL](https://github.com/sadolbal12/chichi-stl) — закрытая библиотека ZIP для подписчиков Patreon (Django, OAuth, pytest)
 
 ## Контакты
 
